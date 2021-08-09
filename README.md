@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋🏻
+- 🌱 I’m currently learning React  ⚛️
+- 🐦 Twitter: [@nermalguy](https://twitter.com/nermalguy)
+- 😄 Pronouns: they/them
 
 <!--
 **HR-Williams/HR-Williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
