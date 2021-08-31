@@ -9,7 +9,7 @@
 </a>
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=HR-Williams" alt="visitor badge"/>
 </p> -->
-<p alig="center">
+<!-- <p alig="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40"/>
@@ -33,10 +33,10 @@
   <img alt="Terminal" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 <br/>
-<div>
+<div> -->
 <!-- <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=HR-Williams&show_icons=true&count_private=true&theme=github_dark" width="53%" /> -->
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Williams&layout=compact&theme=github_dark"/>
-</div>
+<!-- <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Williams&layout=compact&theme=github_dark"/>
+</div> -->
 
 <!--
 **HR-Williams/HR-Williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
