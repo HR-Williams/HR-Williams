@@ -34,8 +34,8 @@
 </p>
 <br/>
 <div>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=HR-Williams&show_icons=true&count_private=true&theme=github_dark" width="53%" />
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Williams&layout=compact&theme=github_dark" width="44%"/>
+<!-- <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=HR-Williams&show_icons=true&count_private=true&theme=github_dark" width="53%" /> -->
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Williams&layout=compact&theme=github_dark"/>
 </div>
 
 <!--
