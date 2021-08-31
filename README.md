@@ -2,14 +2,14 @@
 - 🌱 I’m currently learning React  ⚛️
 - 🐦 Twitter: [@nermalguy](https://twitter.com/nermalguy)
 - 😄 Pronouns: they/them
+<br/>
 
-<p>
-<!-- <a href="https://www.linkedin.com/in/hrwilliams/">
+<!-- <p><a href="https://www.linkedin.com/in/hrwilliams/">
     <img margin-left="auto" margin-right="auto" display="block" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
 </a>
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=HR-Williams" alt="visitor badge"/>
 </p> -->
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40"/>
@@ -32,8 +32,6 @@
   <img alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="Terminal" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-<br/>
-<br/>
 <br/>
 <div>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=HR-Williams&show_icons=true&count_private=true&theme=github_dark" width="53%" />
