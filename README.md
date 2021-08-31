@@ -9,7 +9,7 @@
 </a>
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=HR-Williams" alt="visitor badge"/>
 </p> -->
-<p>
+<p alig="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40"/>
