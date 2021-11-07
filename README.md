@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-- 🌱 I’m currently learning P5.js
+- 🌱 I’m currently learning p5.js
 - 🐦 Twitter: [@nermalguy](https://twitter.com/nermalguy)
 - 😄 Pronouns: they/them
 <br/>
